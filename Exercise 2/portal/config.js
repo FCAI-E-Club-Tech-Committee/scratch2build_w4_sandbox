@@ -2,6 +2,7 @@
 const PORTAL_CONFIG = {
   appName: "FCAI Activity Portal",
   themeColor: "#00ff0d", // <-- Partner A changes to "#10b981" | Partner B changes to "#f59e0b"
+  themeColor: "#f59e0b", // <-- Partner A changes to "#10b981" | Partner B changes to "#f59e0b"
   maxEventsPerPage: 6,
   updatedBy: "Initial Setup",
 };
